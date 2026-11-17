@@ -7,6 +7,7 @@ The method is the one from my M1 thesis (market model, estimation window [-200, 
 | Nº | Date | Event | Main result |
 |---|---|---|---|
 | 01 | 10 Nov 2026 | [Binance hack, 29 Oct 2026](01-binance-hack) | BNB abnormal return −5.3% on the day (t = −3.75), about $5.3bn of market value |
+| 02 | 17 Nov 2026 | [Nvidia CEO news, Oct–Nov 2026](02-nvidia-key-person) | NVDA abnormal return −13.7% vs chip peers on 9–10 Nov (t = −4.7), about $580bn of market value |
 
 ## Method in one paragraph
 
@@ -17,9 +18,10 @@ Expected return comes from a market model, `R_asset = α + β · R_market`, esti
 ```bash
 pip install -r requirements.txt
 python 01-binance-hack/event_study.py
+cd 02-nvidia-key-person && python event_study.py
 ```
 
-Data comes from the CoinGecko public API at run time, so the raw prices are not stored in this repository.
+Nº01 downloads its prices from the CoinGecko public API at run time. Nº02 ships its Yahoo Finance prices in `02-nvidia-key-person/data/`.
 
 ## Author
 
