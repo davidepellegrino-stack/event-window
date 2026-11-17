@@ -1,0 +1,22 @@
+benchmark,window,start,end,days,alpha,beta,sigma,CAR,t,usd_bn
+Chip peers ex-NVDA (equal weight),"E1 intelligence-effort report [0,+1]",2026-10-29,2026-10-30,2,-0.000123,0.446995,0.020345,-0.006089,-0.211639,-31.772621
+Chip peers ex-NVDA (equal weight),E1 intelligence-effort report [0],2026-10-29,2026-10-29,1,-0.000123,0.446995,0.020345,0.000692,0.034007,3.622312
+Chip peers ex-NVDA (equal weight),"E2 affair acknowledged + board probe [0,+1]",2026-11-09,2026-11-10,2,-0.000123,0.446995,0.020345,-0.136529,-4.745235,-578.796624
+Chip peers ex-NVDA (equal weight),E2 affair acknowledged + board probe [0],2026-11-09,2026-11-09,1,-0.000123,0.446995,0.020345,-0.073898,-3.632293,-323.069403
+Chip peers ex-NVDA (equal weight),"E3 second report + resignation [0,+1]",2026-11-12,2026-11-13,2,-0.000123,0.446995,0.020345,-0.052759,-1.833707,-216.956086
+Chip peers ex-NVDA (equal weight),E3 second report + resignation [0],2026-11-12,2026-11-12,1,-0.000123,0.446995,0.020345,-0.051306,-2.521839,-211.133408
+Chip peers ex-NVDA (equal weight),Full period 29 Oct - 16 Nov,2026-10-29,2026-11-16,13,-0.000123,0.446995,0.020345,-0.253088,-3.450230,-1170.265394
+SMH (contains NVDA),"E1 intelligence-effort report [0,+1]",2026-10-29,2026-10-30,2,-0.000333,0.615371,0.017903,0.000549,0.021699,2.876132
+SMH (contains NVDA),E1 intelligence-effort report [0],2026-10-29,2026-10-29,1,-0.000333,0.615371,0.017903,-0.001146,-0.064034,-5.996467
+SMH (contains NVDA),"E2 affair acknowledged + board probe [0,+1]",2026-11-09,2026-11-10,2,-0.000333,0.615371,0.017903,-0.124820,-4.929971,-532.196675
+SMH (contains NVDA),E2 affair acknowledged + board probe [0],2026-11-09,2026-11-09,1,-0.000333,0.615371,0.017903,-0.073651,-4.113887,-322.027256
+SMH (contains NVDA),"E3 second report + resignation [0,+1]",2026-11-12,2026-11-13,2,-0.000333,0.615371,0.017903,-0.038973,-1.539310,-161.365593
+SMH (contains NVDA),E3 second report + resignation [0],2026-11-12,2026-11-12,1,-0.000333,0.615371,0.017903,-0.037657,-2.103371,-156.016263
+SMH (contains NVDA),Full period 29 Oct - 16 Nov,2026-10-29,2026-11-16,13,-0.000333,0.615371,0.017903,-0.190441,-2.950282,-907.556050
+Nasdaq-100 (QQQ),"E1 intelligence-effort report [0,+1]",2026-10-29,2026-10-30,2,0.000021,1.242847,0.018031,0.010465,0.410379,55.056109
+Nasdaq-100 (QQQ),E1 intelligence-effort report [0],2026-10-29,2026-10-29,1,0.000021,1.242847,0.018031,0.009677,0.536687,50.892662
+Nasdaq-100 (QQQ),"E2 affair acknowledged + board probe [0,+1]",2026-11-09,2026-11-10,2,0.000021,1.242847,0.018031,-0.134831,-5.287569,-572.073934
+Nasdaq-100 (QQQ),E2 affair acknowledged + board probe [0],2026-11-09,2026-11-09,1,0.000021,1.242847,0.018031,-0.086943,-4.821842,-377.659831
+Nasdaq-100 (QQQ),"E3 second report + resignation [0,+1]",2026-11-12,2026-11-13,2,0.000021,1.242847,0.018031,-0.045686,-1.791648,-188.532131
+Nasdaq-100 (QQQ),E3 second report + resignation [0],2026-11-12,2026-11-12,1,0.000021,1.242847,0.018031,-0.040407,-2.240990,-167.184369
+Nasdaq-100 (QQQ),Full period 29 Oct - 16 Nov,2026-10-29,2026-11-16,13,0.000021,1.242847,0.018031,-0.207433,-3.190711,-980.448874
