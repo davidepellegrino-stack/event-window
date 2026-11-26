@@ -1,0 +1,12 @@
+ticker,name,group,start,end,total_return_pct
+SAN.MC,Santander,euro area peer,2026-08-31,2026-11-25,-19.9
+DBK.DE,Deutsche Bank,euro area peer,2026-08-31,2026-11-25,-16.1
+ISP.MI,Intesa Sanpaolo,euro area peer,2026-08-31,2026-11-25,-15.9
+CBK.DE,Commerzbank,euro area peer,2026-08-31,2026-11-25,-15.0
+ACA.PA,Credit Agricole,France,2026-08-31,2026-11-25,-14.9
+GLE.PA,Societe Generale,France,2026-08-31,2026-11-25,-14.6
+EXX1.DE,Euro area banks (EXX1 ETF),benchmark,2026-08-31,2026-11-25,-14.0
+BBVA.MC,BBVA,euro area peer,2026-08-31,2026-11-25,-13.6
+INGA.AS,ING,euro area peer,2026-08-31,2026-11-25,-13.5
+BNP.PA,BNP Paribas,France,2026-08-31,2026-11-25,-11.3
+UCG.MI,UniCredit,euro area peer,2026-08-31,2026-11-25,-9.5

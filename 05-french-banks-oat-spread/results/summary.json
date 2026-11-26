@@ -1,0 +1,14 @@
+{
+ "oct_2026_d_spread_bp": 50.7,
+ "oct_2026_relative_pp": 0.57,
+ "oct_2026_predicted_pp": -3.53,
+ "last_month": "2026-10",
+ "last_spread_bp": 147.4,
+ "previous_month_at_least_as_wide": "2011-11",
+ "spread_jun_2026_bp": 71.6,
+ "n_months": 177,
+ "beta_pp_per_bp": -0.076,
+ "t_stat": -2.46,
+ "r2": 0.033,
+ "reg_window": "2012-02..2026-10"
+}
